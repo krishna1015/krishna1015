@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A Aspiring data analyst professional looking for entry level job in Australia</h3>
+<h3 align="center">A Aspiring data analyst professional from Australia</h3>
 
-- 🔭 I’m currently working on [Excel Project]https://github.com/krishna1015/Excel-Project-
+- 🔭 I’m currently working on [Excel Project](https://github.com/krishna1015/Excel-Project-)
 
 - 🌱 I’m currently learning **Excel, PowerBI ,MYSQL,Python,R**
 
